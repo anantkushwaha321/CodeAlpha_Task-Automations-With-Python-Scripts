@@ -1,0 +1,15 @@
+Team Contact Directory & Meeting Notes
+======================================
+Hello team,
+
+For project support, reach out to Alice Smith at alice.smith@example.com or support@company.org.
+You can also contact John (engineering lead) at john_doe123@techcorp.io.
+For urgent queries, email marketing team: info@marketing-hub.net or alice.smith@example.com (duplicate).
+
+Other points of contact:
+- Billing inquiry: billing+finance@startup.co
+- Feedback: feedback.user@domain.edu
+- Personal note: please do not email invalid-email@ or @nodomain.com
+
+Best regards,
+HR Office (hr.department@globalcorp.com)

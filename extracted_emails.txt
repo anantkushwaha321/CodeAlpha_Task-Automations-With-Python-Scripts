@@ -1,0 +1,10 @@
+# Extracted Email Addresses
+# Total Unique Emails: 7
+----------------------------------------
+alice.smith@example.com
+support@company.org
+john_doe123@techcorp.io
+info@marketing-hub.net
+billing+finance@startup.co
+feedback.user@domain.edu
+hr.department@globalcorp.com
